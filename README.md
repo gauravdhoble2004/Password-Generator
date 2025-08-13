@@ -85,11 +85,11 @@ npm run dev
 
 4. Push and open a PR 🚀
 
-📜 License
-This project is licensed under the MIT License — free to use and modify.
 
 👨‍💻 Author
 Gaurav Dhoble
 📧 gauravdhoble478@gmail.com
+
 LinkedIn
+
 GitHub
