@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@theme {
+  --color-body: #5c7650;
+  --color-box: #0B2C3D;
+  --color-bermuda: #78dcca;
+}
+/* Rotating + color-changing border */
+
+@keyframes borderColorShift {
+  0%   { border-color: cyan magenta yellow lime; }
+  25%  { border-color: magenta yellow lime cyan; }
+  50%  { border-color: yellow lime cyan magenta; }
+  75%  { border-color: lime cyan magenta yellow; }
+  100% { border-color: cyan magenta yellow lime; }
+}
+
+.rotating-border {
+  position: relative;
+  padding: 1.5rem;
+  border: 4px solid cyan;
+  border-radius: 8px;
+  animation:   linear infinite, borderColorShift 3s linear infinite;
+}
