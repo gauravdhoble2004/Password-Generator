@@ -65,21 +65,19 @@ npm install
 npm run dev
 
 📋 Usage Guide
-Set the length with the slider.
+1. Set the length with the slider.
 
-Enable numbers and/or symbols.
+2. Enable numbers and/or symbols.
 
-Click Generate to create your password.
+3. Click Generate to create your password.
 
-Copy instantly with the 📋 button.
+4. Copy instantly with the 📋 button.
 
-Check strength from the meter.
+5. Check strength from the meter.
 
 | Password Generator                                                                                       |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ 
-| ![Password Generator]("C:\Users\gaura\Pictures\Screenshots\passgen.png") | 
-
-
+| -------------------------------------------------------------------------------------------------------- |
+![Password Generator](https://github.com/user-attachments/assets/ca7328c7-4210-4169-91e3-e04cd7b49801)
 
 🤝 Contributing
 💡 Contributions are welcome!
