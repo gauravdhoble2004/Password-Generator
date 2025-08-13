@@ -9,11 +9,6 @@
 
 ---
 
-## 🎥 Live Demo
-
-🚀 **[View Demo](#)** *(Add your deployed app link here: Vercel, Netlify, etc.)*
-
----
 
 ## ✨ Features
 
